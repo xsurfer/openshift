@@ -1,0 +1,1 @@
+/usr/libexec/stickshift/cartridges/php-5.3/../abstract/info/bin/sync_gears.sh

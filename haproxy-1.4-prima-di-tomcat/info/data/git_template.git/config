@@ -1,0 +1,6 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "origin"]
+	url = /tmp/tito/rpmbuild-cartridge-haproxy-1.4-8f6698ef3f88b5518e03a557cc4f3a5ace06f15fmM08Zj/BUILD/cartridge-haproxy-1.4-git-0.8f6698e/git_template

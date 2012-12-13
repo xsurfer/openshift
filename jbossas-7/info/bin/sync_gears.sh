@@ -1,0 +1,1 @@
+/usr/libexec/stickshift/cartridges/jbossas-7/../abstract/info/bin/sync_gears.sh
